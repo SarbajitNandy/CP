@@ -1,0 +1,11 @@
+4 6
+
+1 6 3 6 4 6 3 4
+
+W M G G G G
+
+M G W G M M
+
+G W G G G G
+
+W G W M W G
