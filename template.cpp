@@ -46,41 +46,15 @@ void _print(double a) {cerr << a;}
 // **`KISS**
 void solve()
 {
-    ll n, k; cin >> n >> k;
-    vector<pair<ll, ll>> v(n);
-    for(int i = 0; i < n; ++i)
-    {
-        cin >> v[i].ff;
-        v[i].ss = i + 1;
-    }
-    ll ans = 1LL;
-    stack<pair<ll, ll>> st;
-    for(int i = 0; i < n; ++i)
-    {
-        if(st.empty())
-        {
-            st.push(v[i]);
-        }
-        else
-        {
-            pair<ll, ll> t1 = st.top();
-            pair<ll, ll> t2 = v[i];
-            while(t1.ff > t2.ff)
-            {
-                ans = ans % MOD * (t2.ss - t1.ss + 1) % MOD;
-                st.pop();
-                if(st.empty()) break;
-                else t1 = st.top();
-            }
-            st.push(v[i]);
-        }
-    }
-    cout << ans;
+
+
 }
 int main()
 {
 #ifndef ONLINE_JUDGE
-    freopen("Error.txt", "w", stderr);
+	freopen("in.txt", "r", stdin);
+	freopen("out.txt", "w", stdout);
+    freopen("error.txt", "w", stderr);
 #endif
     cout << fixed << setprecision(0);
     ios_base::sync_with_stdio(false);

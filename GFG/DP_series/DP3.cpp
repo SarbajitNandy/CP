@@ -46,41 +46,59 @@ void _print(double a) {cerr << a;}
 // **`KISS**
 void solve()
 {
-    ll n, k; cin >> n >> k;
-    vector<pair<ll, ll>> v(n);
-    for(int i = 0; i < n; ++i)
+	int n;
+    cin >> n;
+    cerr << n << endl;
+    int data[n];
+    for (int i = 0; i < n; i++)
     {
-        cin >> v[i].ff;
-        v[i].ss = i + 1;
+        cin >> data[i];
     }
-    ll ans = 1LL;
-    stack<pair<ll, ll>> st;
-    for(int i = 0; i < n; ++i)
+
+    vector<int> lis(n, 1), trail(n, 0);
+
+    int mx = 0, idx = -1;
+    for (int i = n - 2; i > 0; i--)
     {
-        if(st.empty())
+        mx = 0;
+        for (int j = i; j < n; j++)
         {
-            st.push(v[i]);
-        }
-        else
-        {
-            pair<ll, ll> t1 = st.top();
-            pair<ll, ll> t2 = v[i];
-            while(t1.ff > t2.ff)
+            if (data[i] < data[j] && mx < lis[j])
             {
-                ans = ans % MOD * (t2.ss - t1.ss + 1) % MOD;
-                st.pop();
-                if(st.empty()) break;
-                else t1 = st.top();
+                mx = lis[j];
+                idx = j;
             }
-            st.push(v[i]);
         }
+        lis[i] += mx;
+        trail[i] = idx;
     }
-    cout << ans;
+
+    _print(lis); cerr << nline;
+    _print(trail); cerr << nline;
+
+    int m = 0;idx=-1;
+    for (int i=0;i<n;i++) {
+    	if (m<lis[i]) {m=lis[i];idx=i;}
+    }
+    cout << m << endl;
+    cerr << "Print Sequence\n" ;
+    // cout << 
+    while (true) {
+    	cout << data[idx] << " ";
+    	cerr << data[idx] << " ";
+    	if (trail[idx]==-1 || trail[idx]==0) break;
+    	idx=trail[idx];
+    }
+
+    while(true) {continue;}
+	 
 }
 int main()
 {
 #ifndef ONLINE_JUDGE
-    freopen("Error.txt", "w", stderr);
+	freopen("in.txt", "r", stdin);
+	freopen("out.txt", "w", stdout);
+    freopen("error.txt", "w", stderr);
 #endif
     cout << fixed << setprecision(0);
     ios_base::sync_with_stdio(false);
@@ -91,7 +109,7 @@ int main()
         cout << nline;
     }
   
-    cerr << "time taken : " << (float)clock() / CLOCKS_PER_SEC << " secs" << endl;
+    cerr << "\ntime taken : " << (float)clock() / CLOCKS_PER_SEC << " secs" << endl;
     return 0;
 }
 // `Keep It Simple Stupid!
