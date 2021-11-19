@@ -43,54 +43,62 @@ void _print(ull a) {cerr << a;}
 void _print(char a) {cerr << a;}
 void _print(string a) {cerr << a;}
 void _print(double a) {cerr << a;}
-// **`KISS**
+
+int binarySearch(vector<ll> arr, int l, int r, int x)
+{
+    if (r >= l) {
+        int mid = l + (r - l) / 2;
+ 
+        // If the element is present at the middle
+        // itself
+        if (arr[mid] == x)
+            return mid;
+ 
+        // If element is smaller than mid, then
+        // it can only be present in left subarray
+        if (arr[mid] > x)
+            return binarySearch(arr, l, mid - 1, x);
+ 
+        // Else the element can only be present
+        // in right subarray
+        return binarySearch(arr, mid + 1, r, x);
+    } 
+
+    if (l==r) return l;
+ 
+    // We reach here when element is not
+    // present in array
+    return l;
+}
+
 void solve()
 {
-	int n;
-    cin >> n;
-    cerr << n << endl;
-    int data[n];
-    for (int i = 0; i < n; i++)
-    {
-        cin >> data[i];
-    }
 
-    vector<int> lis(n, 1), trail(n, 0);
+    ll n; cin >> n;
+    vector<ll> arr;
 
-    int mx = 0, idx = -1;
-    for (int i = n - 2; i > 0; i--)
-    {
-        mx = 0;
-        for (int j = i; j < n; j++)
-        {
-            if (data[i] < data[j] && mx < lis[j])
-            {
-                mx = lis[j];
-                idx = j;
-            }
+    ll each; 
+    bool found= false;
+    for (ll i=0;i<n;i++) {    
+        cin >> each; 
+        found=false;
+        // for(ll j=0;j<arr.size();j++) {
+        //     if (arr[j]>each) {arr[j]=each; found=true;break;}
+        // }
+        ll idx= binarySearch(arr, 0,arr.size()-1,each);
+        // debug(idx);
+
+        if (idx >= arr.size()) arr.pb(each);
+        else {
+            while (arr[idx]==each) idx++;
+            arr[idx]=each; 
         }
-        lis[i] += mx;
-        trail[i] = idx;
     }
 
-    _print(lis); cerr << nline;
-    _print(trail); cerr << nline;
-
-    int m = 0;idx=-1;
-    for (int i=0;i<n;i++) {
-    	if (m<lis[i]) {m=lis[i];idx=i;}
-    }
-    cout << m << endl;
-    cerr << "Print Sequence\n" ;
-    // cout << 
-    while (true) {
-    	cout << data[idx] << " ";
-    	cerr << data[idx] << " ";
-    	if (trail[idx]==-1 || trail[idx]==0) break;
-    	idx=trail[idx];
-    }
-
-	 
+    cout<< arr.size()<< " "; 
+    debug(arr);
+    for(auto a:arr) cout << a << " ";
+    // cout << endl;
 }
 int main()
 {
@@ -103,12 +111,12 @@ int main()
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     int t = 1;
+    cin >> t; 
     while (t--) {
         solve();
         cout << nline;
     }
   
-    cerr << "\ntime taken : " << (float)clock() / CLOCKS_PER_SEC << " secs" << endl;
+    cerr << "time taken : " << (float)clock() / CLOCKS_PER_SEC << " secs" << endl;
     return 0;
 }
-// `Keep It Simple Stupid!

@@ -43,54 +43,62 @@ void _print(ull a) {cerr << a;}
 void _print(char a) {cerr << a;}
 void _print(string a) {cerr << a;}
 void _print(double a) {cerr << a;}
-// **`KISS**
+
 void solve()
 {
-	int n;
-    cin >> n;
-    cerr << n << endl;
-    int data[n];
-    for (int i = 0; i < n; i++)
-    {
-        cin >> data[i];
-    }
 
-    vector<int> lis(n, 1), trail(n, 0);
+    string a,b;
+    cin >> a >> b;
+    debug(a);debug(b);
 
-    int mx = 0, idx = -1;
-    for (int i = n - 2; i > 0; i--)
-    {
-        mx = 0;
-        for (int j = i; j < n; j++)
-        {
-            if (data[i] < data[j] && mx < lis[j])
-            {
-                mx = lis[j];
-                idx = j;
-            }
+    int n,m; n=a.length();m=b.length();
+    debug(n);debug(m);
+    int dp[n+1][m+1]; 
+    for(int i=0;i<n+1;i++)dp[i][0]=0;
+    for(int i=0;i<m+1;i++)dp[0][i]=0;
+
+    for(int i=1;i<n+1;i++) {
+        for(int j=1;j<m+1;j++) {
+            // debug(a[i-1]);debug(b[j-1]);
+            if (a[i-1]==b[j-1]) dp[i][j]=1+dp[i-1][j-1];
+            else dp[i][j]=max(dp[i][j-1],dp[i-1][j]);
         }
-        lis[i] += mx;
-        trail[i] = idx;
     }
 
-    _print(lis); cerr << nline;
-    _print(trail); cerr << nline;
-
-    int m = 0;idx=-1;
-    for (int i=0;i<n;i++) {
-    	if (m<lis[i]) {m=lis[i];idx=i;}
-    }
-    cout << m << endl;
-    cerr << "Print Sequence\n" ;
-    // cout << 
-    while (true) {
-    	cout << data[idx] << " ";
-    	cerr << data[idx] << " ";
-    	if (trail[idx]==-1 || trail[idx]==0) break;
-    	idx=trail[idx];
+    for(int i=0;i<n+1;i++) {
+        for(int j=0;j<m+1;j++) cerr << dp[i][j] << " ";
+        cerr << endl;
     }
 
-	 
+    // debug(dp);
+    cout << "MAX Length: " << dp[n][m] << endl;
+    cerr << "MAX Length: " << dp[n][m] << endl;
+
+
+    int i=n,j=m;
+    string ans="";
+
+    while (dp[i][j]>0) {
+            int in=i,jn=j,mx=-1;
+        // debug(a[i-1]);debug(b[j-1]);
+        if (i>=1 && j>=1 && a[i-1]==b[j-1]) {
+            ans=a[i-1]+ans; debug(ans);
+            i=i-1;j=j-1;
+        }
+        else {
+            if (mx<dp[i-1][j]) {in=i-1;jn=j;mx=dp[i-1][j];}
+            if (mx<dp[i][j-1]) {in=i;jn=j-1;mx=dp[i][j-1];}
+            if (mx<dp[i-1][j-1]) {in=i-1;jn=j-1;mx=dp[i-1][j-1];}
+            i=in;j=jn;
+        }
+        
+
+    }
+
+    cout << "Sequence: " << ans;
+    cerr << "Sequence: " << ans;
+
+    	 
 }
 int main()
 {
