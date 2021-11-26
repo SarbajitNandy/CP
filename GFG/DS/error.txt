@@ -1,0 +1,25 @@
+left : 1
+left : 3
+left : -1
+idx : 3
+nodes[idx] : 4
+right : -1
+idx : 1
+nodes[idx] : 2
+right : 4
+left : -1
+idx : 4
+nodes[idx] : 5
+right : -1
+idx : 0
+nodes[idx] : 1
+right : 2
+left : 5
+left : -1
+idx : 5
+nodes[idx] : 6
+right : -1
+idx : 2
+nodes[idx] : 3
+right : -1
+time taken : 0.006158 secs
