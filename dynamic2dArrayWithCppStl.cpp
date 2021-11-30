@@ -42,27 +42,51 @@ void _print(char a) {cerr << a;}
 void _print(string a) {cerr << a;}
 void _print(double a) {cerr << a;}
 
-
-void solve()
-{
-
-
+void solve(vx(vi) arr, int n, int m) {
+    cerr << "Start printing\n";
+    for (int i=0;i<n;i++) {
+        for(int j=0;j<m;j++) cerr << arr[i][j] << " " ;
+            cerr << endl;
+    }
+    cerr << "END\n";
 }
+
+void solve(int **arr, int n, int m) {
+    cerr << "Start printing\n";
+    for (int i=0;i<n;i++) {
+        for(int j=0;j<m;j++) cerr << arr[i][j] << " " ;
+            cerr << endl;
+    }
+    cerr << "END\n";
+}
+
 int main()
 {
 #ifndef ONLINE_JUDGE
-	freopen("in.txt", "r", stdin);
-	freopen("out.txt", "w", stdout);
+    freopen("in.txt", "r", stdin);
+    freopen("out.txt", "w", stdout);
     freopen("error.txt", "w", stderr);
 #endif
-    cout << fixed << setprecision(0);
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    int t = 1;
-    while (t--) {
-        solve();
-        cout << nline;
-    }
+    int n,m; cin >> n >> m;
+
+    // First way
+    vx(vi) arr(n, vi(m,0));
+    // Second way 
+    // int a[n][m]; memset(a,0, sizeof a);
+    // int *arr[n] ;
+
+    // for (int i=0;i<n;i++) {
+    //     arr[i]=a[i];
+    // }
+    solve(arr, n,m);
+
+    // cerr << "Start printing\n";
+    // for (int i=0;i<n;i++) {
+    //     for(int j=0;j<m;j++) cerr << arr[i][j] << " " ;
+    //         cerr << endl;
+    // }
+    // cerr << "END\n";
+
   
     cerr << "time taken : " << (float)clock() / CLOCKS_PER_SEC << " secs" << endl;
     return 0;
