@@ -5,6 +5,7 @@
 // #include <ext/pb_ds/tree_policy.hpp>
 // using namespace __gnu_pbds;
 using namespace std;
+#define INF INT_MAX
 #define MOD 1000000007
 #define ull unsigned long long
 #define ll long long
@@ -44,8 +45,32 @@ void _print(string a) {cerr << a;}
 void _print(double a) {cerr << a;}
 
 
+bool compareV(pair<int,int> a, pair<int,int> b ) { return a.ss > b.ss;} 
+
 void solve()
 {
+	int n,x,y; cin >> n >> x >> y;
+	vector<pair<int,int>> contests;
+	int v1,v2;
+	for(int i=0;i<n;i++) { cin >> v1 >>v2; contests.pb(mk(v1,v2));}
+	// sort based on v2
+	// sort(contests.begin(), contests.end(), compareV);
+
+	vi entryTime(x,0), exitTime(y,0);
+	for(int i=0;i<x;i++) cin >> entryTime[i];
+	for(int i=0;i<y;i++) cin >> exitTime[i];
+	sort(entryTime.begin(),entryTime.end());	//debug(entryTime);
+	sort(exitTime.begin(),exitTime.end());	//debug(exitTime);
+	int mn=INF;
+	for(pair<int,int> each : contests) {
+		// int entry=-1, exit=-1;
+		auto lt = upper_bound(entryTime.begin(), entryTime.end(), each.ff);
+		auto rt = lower_bound(exitTime.begin(), exitTime.end(), each.ss);
+		// debug(entry);debug(exit);
+		if (lt!=entryTime.begin() && rt != exitTime.end()){ lt--; mn=min(mn, *rt-*lt+1);  }
+	}
+
+	cout << mn;
 
 
 }

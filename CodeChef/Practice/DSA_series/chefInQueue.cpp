@@ -43,7 +43,7 @@ void _print(ull a) {cerr << a;}
 void _print(char a) {cerr << a;}
 void _print(string a) {cerr << a;}
 void _print(double a) {cerr << a;}
-// **`KISS**
+
 void solve()
 {
 	ll ans=1LL,n,k,each;
