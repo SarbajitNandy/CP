@@ -1,7 +1,3 @@
-/*
-    Author : prashant_th18
-                            :)
-*/
 // #pragma GCC optimize("O3")
 // #pragma GCC target("popcnt")
 #include <bits/stdc++.h>
@@ -14,8 +10,11 @@ using namespace std;
 #define ll long long
 #define ld long double
 #define pl pair<ll, ll>
+#define vi vector<int>
 #define vl vector<ll>
 #define vpl vector<pl>
+#define vx(x) vector<x>
+#define mk make_pair
 #define pb push_back
 #define all(v) begin(v), end(v)
 #define PI 3.1415926535897932384626
@@ -44,56 +43,26 @@ void _print(char a) {cerr << a;}
 void _print(string a) {cerr << a;}
 void _print(double a) {cerr << a;}
 
-int binarySearch(vector<ll> arr, int l, int r, int x)
-{
-    if (r >= l) {
-        int mid = l + (r - l) / 2;
- 
-        // If the element is present at the middle
-        // itself
-        if (arr[mid] == x)
-            return mid;
- 
-        // If element is smaller than mid, then
-        // it can only be present in left subarray
-        if (arr[mid] > x)
-            return binarySearch(arr, l, mid - 1, x);
- 
-        // Else the element can only be present
-        // in right subarray
-        return binarySearch(arr, mid + 1, r, x);
-    } 
-
-    if (l==r) return l;
- 
-    // We reach here when element is not
-    // present in array
-    return l;
+void permute(int idx, string s) {
+	int n=s.size();
+	if (idx==n) {
+		cout << s << endl;
+		return;
+	}
+	int i=idx;
+	while(i<n) {
+		swap(s[i],s[idx]);
+		permute(idx+1,s);
+		swap(s[i],s[idx]);
+		i++;
+	}
 }
 
 void solve()
 {
 
-    ll n; cin >> n;
-    vector<ll> arr;
+	permute(0,"abcd");
 
-    ll each; 
-    bool found= false;
-    for (ll i=0;i<n;i++) {    
-        cin >> each; 
-        found=false;
-        //ll idx= binarySearch(arr, 0,arr.size()-1,each);
-        ll idx2 = upper_bound(arr.begin(), arr.end(), each)-arr.begin();
-        if (idx2 >= arr.size()) arr.pb(each);
-        else {
-            arr[idx2]=each; 
-        }
-    }
-
-    cout<< arr.size()<< " "; 
-    // debug(arr);
-    for(auto a:arr) cout << a << " ";
-    // cout << endl;
 }
 int main()
 {
@@ -106,7 +75,6 @@ int main()
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     int t = 1;
-    cin >> t; 
     while (t--) {
         solve();
         cout << nline;
@@ -115,3 +83,4 @@ int main()
     cerr << "time taken : " << (float)clock() / CLOCKS_PER_SEC << " secs" << endl;
     return 0;
 }
+// `Keep It Simple Stupid!

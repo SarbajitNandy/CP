@@ -1,1 +1,100 @@
-time taken : 0.008 secs
+arr : [ ]
+each : 3
+idx : 0
+idx2 : 0
+arr : [ 3 ]
+each : 4
+idx : 1
+idx2 : 1
+arr : [ 3 4 ]
+each : 5
+idx : 2
+idx2 : 2
+arr : [ 3 4 5 ]
+each : 1
+idx : 0
+idx2 : 0
+arr : [ 1 4 5 ]
+each : 1
+idx : 0
+idx2 : 1
+arr : [ 1 1 5 ]
+each : 2
+idx : 2
+idx2 : 2
+arr : [ 1 1 2 ]
+arr : [ ]
+each : 3
+idx : 0
+idx2 : 0
+arr : [ 3 ]
+each : 2
+idx : 0
+idx2 : 0
+arr : [ 2 ]
+each : 9
+idx : 1
+idx2 : 1
+arr : [ 2 9 ]
+each : 5
+idx : 1
+idx2 : 1
+arr : [ 2 5 ]
+each : 2
+idx : 0
+idx2 : 1
+arr : [ 2 2 ]
+each : 9
+idx : 2
+idx2 : 2
+arr : [ 2 2 9 ]
+each : 4
+idx : 2
+idx2 : 2
+arr : [ 2 2 4 ]
+each : 14
+idx : 3
+idx2 : 3
+arr : [ 2 2 4 14 ]
+each : 7
+idx : 3
+idx2 : 3
+arr : [ 2 2 4 7 ]
+each : 10
+idx : 4
+idx2 : 4
+arr : [ 2 2 4 7 10 ]
+arr : [ ]
+each : 14
+idx : 0
+idx2 : 0
+arr : [ 14 ]
+each : 5
+idx : 0
+idx2 : 0
+arr : [ 5 ]
+each : 13
+idx : 1
+idx2 : 1
+arr : [ 5 13 ]
+each : 19
+idx : 2
+idx2 : 2
+arr : [ 5 13 19 ]
+each : 17
+idx : 2
+idx2 : 2
+arr : [ 5 13 17 ]
+each : 10
+idx : 1
+idx2 : 1
+arr : [ 5 10 17 ]
+each : 18
+idx : 3
+idx2 : 3
+arr : [ 5 10 17 18 ]
+each : 12
+idx : 2
+idx2 : 2
+arr : [ 5 10 12 18 ]
+time taken : 0.020247 secs
