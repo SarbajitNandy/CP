@@ -50,7 +50,7 @@ class Node{
     ll lockedDescendantCount;
     Node* parent;
     vector<Node*> children;
-    int uId;
+    ll uId;
 
     Node(string n) {
         name=n;
@@ -65,7 +65,7 @@ class Node{
         children.push_back(child);
     }
 
-    bool lock(int uId) {
+    bool lock(ll uId) {
         // cout << this->name << endl;
 
         if (this->locked){
@@ -77,6 +77,7 @@ class Node{
             if (parent->locked) return false;
             parent=parent->parent;
         }
+        // sm 
         parent = this->parent;
         while(parent!=NULL) {
             parent->lockedDescendantCount++;
@@ -87,8 +88,9 @@ class Node{
         return true;
     }
 
-    bool unlock(int uId) {
-        // cout << this->name << endl;
+    bool unlock(ll uId) {
+        cerr << this->locked << endl;
+
         if (!this->locked) return false;
 
         if (this->uId!=uId) return false;
@@ -97,6 +99,7 @@ class Node{
             if (parent->locked) return false;
             parent=parent->parent;
         }
+        //sm
         parent = this->parent;
         while(parent) {
             parent->lockedDescendantCount--;
@@ -108,37 +111,57 @@ class Node{
 
     }
 
-    bool upgradeLock(int uId) {
+    bool upgradeLock(ll uId) {
         // cout << this->name << endl;
 
         if (this->locked || this->lockedDescendantCount==0) return false;
-        bool ans = this->lockDecWithUid(uId);
-        if (!ans)return false;
+        // check if it has locked parents 
         Node *parent = this->parent;
         while(parent) {
-            parent->lockedDescendantCount--;
+            if (parent->locked) return false;
             parent=parent->parent;
         }
-        this->locked=true;
-        this->uId=uId;
-        return true;
+
+        bool ans = this->lockDecWithUid(uId);
+        if (!ans)return false;
+        this->unlockAllRequired(uId);
+        return this->lock(uId);
+        // Node *parent = this->parent;
+        // while(parent) {
+        //     parent->lockedDescendantCount--;
+        //     parent=parent->parent;
+        // }
+        // this->locked=true;
+        // this->uId=uId;
+        // return true;
     }
 
-    bool lockDecWithUid(int uId) {
+    bool lockDecWithUid(ll uId) {
         bool ans=true;
         for(auto child: this->children) {
             // cout << child->name << " " << child->uId << endl;
             if (child->locked && child->uId!=uId) return false;
-            ans= child->lockDecWithUid(uId);
-            if (!ans) return false;
+            else {
+                ans= child->lockDecWithUid(uId);
+                if (!ans) return false;
+            }
         }
         return ans;
     }
-    void traverse() {
-        cout << this->name << endl;
+
+    void unlockAllRequired(ll uId) {
+        for(auto child: this->children) {
+            if (child->locked ) {
+                child->unlock(uId);
+            } else child->unlockAllRequired(uId);
+            
+        }
+    }
+    void traverse(int pos = 0) {
+        cout << this->name  << " " << pos << endl;
 
         for(auto child : this->children) {
-            child->traverse();
+            child->traverse(pos+1);
         }
     }
 };
@@ -164,9 +187,11 @@ void solve()
         if (count==m) {parent++;count=0;}
         child++;
     }
+
     Node *root = nodes[0];
     // root->traverse();
-    int type, uId; 
+    // return ; // END
+    int type; ll uId; 
     bool ans;
     while (q--) {
         cin >> type >> name >> uId;
