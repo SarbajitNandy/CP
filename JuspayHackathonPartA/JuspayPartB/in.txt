@@ -1,0 +1,12 @@
+7 
+2
+2
+World 
+Asia 
+India
+China
+Africa 
+SouthAfica
+Egypt
+1 World 9 
+1 China 9

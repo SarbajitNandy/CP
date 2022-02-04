@@ -1,6 +1,6 @@
 7 
 4 
-5 
+5
 World 
 Asia 
 Africa 
@@ -10,6 +10,6 @@ SouthAfrica
 Egypt 
 1 China 9 
 1 India 9 
-3 Asia 9 
-2 Africa 9 
+3 Asia 9
+1 Africa 9 
 2 Asia 9 

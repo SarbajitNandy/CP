@@ -1,10 +1,7 @@
-// #pragma GCC optimize("O3")
-// #pragma GCC target("popcnt")
+
 #include <bits/stdc++.h>
 #include <thread>
-// #include <ext/pb_ds/assoc_container.hpp>
-// #include <ext/pb_ds/tree_policy.hpp>
-// using namespace __gnu_pbds;
+#include<unistd.h>
 using namespace std;
 #define MOD 1000000007
 #define ull unsigned long long
@@ -52,6 +49,7 @@ class Node{
     Node* parent;
     vector<Node*> children;
     ll uId;
+    bool mutex;
 
     Node(string n) {
         name=n;
@@ -59,7 +57,46 @@ class Node{
         lockedDescendantCount=0;
         parent =NULL;
         uId=-1;
+        mutex=1;
     }
+
+
+    void wait(bool& sem) {
+        while(sem==false);
+        sem=false;
+    }
+
+    void signal(bool &sem) { sem=true;}
+
+    int getLocked(){ 
+        wait(mutex);
+        bool ret = this->locked;
+        signal(mutex);
+        return ret;
+    }
+    void setLocked(bool val){ 
+        wait(mutex);
+        this->locked=val;
+        signal(mutex);
+    }
+
+    ll getLockedDescendents(){ 
+        wait(mutex);
+        ll ret= this->lockedDescendantCount;
+        signal(mutex);
+        return ret;
+    }
+    void incLockedDescendents(){ 
+        wait(mutex);
+        this->lockedDescendantCount++;
+        signal(mutex);
+    }
+    void decLockedDescendents(){ 
+        wait(mutex);
+        this->lockedDescendantCount--;
+        signal(mutex);
+    }
+
 
     void add_children(Node *child) {
         child->parent = this;
@@ -86,6 +123,32 @@ class Node{
         }
         this->locked=true;
         this->uId=uId;
+        return true;
+    }
+    bool lockV2(ll uId) {
+        // cout << this->name << endl;
+        wait(mutex);
+        if (this->locked){
+            return false;
+        }
+        if (this->lockedDescendantCount>0) return false;
+        Node * parent = this->parent;
+        while(parent!=NULL) {
+            cerr << "parent " << parent->name ; 
+            if (parent->getLocked()) { cerr << "False\n";return false;}
+            else {cerr<<"True\n";}
+            parent=parent->parent;
+        }
+        // sm 
+        parent = this->parent;
+        while(parent!=NULL) {
+            parent->incLockedDescendents();
+            parent=parent->parent;
+        }
+        this->locked=true;
+        this->uId=uId;
+        signal(mutex);
+
         return true;
     }
 
@@ -127,14 +190,6 @@ class Node{
         if (!ans)return false;
         this->unlockAllRequired(uId);
         return this->lock(uId);
-        // Node *parent = this->parent;
-        // while(parent) {
-        //     parent->lockedDescendantCount--;
-        //     parent=parent->parent;
-        // }
-        // this->locked=true;
-        // this->uId=uId;
-        // return true;
     }
 
     bool lockDecWithUid(ll uId) {
@@ -166,29 +221,43 @@ class Node{
         }
     }
 };
+class th_result{
+public:
+    bool result;
+    int type;
+    string name;
+    ll uId;
 
-void lk(Node* root, long long uId) {
-    bool ans = root->lock(uId);
-    cout<< "Lock on " << root->name << " " << (ans ? "true" : "false") << endl;
+    th_result(int type, string n, ll u) { this->type=type; name=n; uId=u;}
 
+};
+
+map<thread::id, th_result*> result;
+
+
+void performLockOp(Node* root, ll uId){
+    bool res = root->lockV2(uId);
+    result[this_thread::get_id()]->result = res ;
+    // cout << root->name << " LOCK" << " " << res << endl;//sleep(1);
+}
+void performUnLockOp(Node* root, ll uId){
+    bool res = root->unlock(uId);
+    result[this_thread::get_id()]->result = res ;
+
+    // cout << root->name << " UNLOCK"<< " " << root->unlock(uId) << endl;//sleep(1);
+}
+void performUpgradeLockOp(Node* root, ll uId){
+
+    bool res = root->upgradeLock(uId);
+    result[this_thread::get_id()]->result = res ;
+    // cout << root->name << " UPGRADE LOCK" << " " << root->upgradeLock(uId) << endl;//sleep(1);
 }
 
-void ulk(Node* root, long long uId) {
-    bool ans = root->unlock(uId);
-    cout << "Unlock on " << root->name << " "<< (ans ? "true" : "false") << endl;
 
-
-}
-
-void upgrdlk(Node* root, long long uId) {
-    bool ans = root->upgradeLock(uId);
-    cout << "Upgrade Lock on " << root->name << " " << (ans ? "true" : "false") << endl;
-}
 void solve()
 {
     ll n,m,q; cin >> n >> m >> q;
     vector<Node*> nodes;
-    vector<thread> threadList;
     map<string,Node*> mp;
     string name;
     for(ll i=0;i<n;i++) {
@@ -212,34 +281,24 @@ void solve()
     // return ; // END
     int type; ll uId; 
     bool ans;
+    vector<thread> th_list;
+    
     while (q--) {
         cin >> type >> name >> uId;
-        // cout << type << name << uId;
-
-        // switch(type){
-        //     case 1: ans= mp[name]->lock; break;
-        //     case 2: ans= mp[name]->unlock; break;
-        //     case 3: ans= mp[name]->upgradeLock; break;
-        // }
-
         switch(type){
-            case 1: threadList.pb(thread(lk, mp[name],uId)); break;
-            case 2: threadList.pb(thread(ulk, mp[name],uId)); break;
-            case 3: threadList.pb(thread(upgrdlk, mp[name],uId)); break;
+            case 1:  th_list.pb(thread(performLockOp,mp[name],uId)); break;
+            case 2:  th_list.pb(thread(performUnLockOp,mp[name],uId)); break;
+            case 3:  th_list.pb(thread(performUpgradeLockOp,mp[name],uId)); break;
         }
-        // thread nt(lk, mp[name], uId);
-        // nt.join();
 
-        // cout << ((ans)?"true":"false") << endl;
-        // ans=false;
-    }
-    for(auto &th: threadList) {
-        if (th.joinable()) {
-            // cout << "Thread is joinable\n";
-            th.join();
-        }
+        result[th_list.back().get_id()] = new th_result(type, name, uId);
     }
 
+    for( thread& e: th_list) e.join();
+
+    for(pair<thread::id, th_result*> each: result){
+        cout << each.second->type << " " << each.second->name << " " << (each.second->result?"True":"False") << endl;
+    }
 
 }
 int main()
