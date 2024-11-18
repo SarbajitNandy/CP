@@ -31,6 +31,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/SarbajitNandy/CP/tree/master/0132-palindrome-partitioning-ii) |
 | [0337-house-robber-iii](https://github.com/SarbajitNandy/CP/tree/master/0337-house-robber-iii) |
 ## Tree
 |  |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/SarbajitNandy/CP/tree/master/0337-house-robber-iii) |
+## String
+|  |
+| ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/SarbajitNandy/CP/tree/master/0132-palindrome-partitioning-ii) |
 <!---LeetCode Topics End-->
