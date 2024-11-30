@@ -7,15 +7,18 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SarbajitNandy/CP/tree/master/0239-sliding-window-maximum) |
+| [0542-01-matrix](https://github.com/SarbajitNandy/CP/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/SarbajitNandy/CP/tree/master/1036-rotting-oranges) |
 | [1985-maximum-subarray-min-product](https://github.com/SarbajitNandy/CP/tree/master/1985-maximum-subarray-min-product) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/SarbajitNandy/CP/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/SarbajitNandy/CP/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/SarbajitNandy/CP/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/SarbajitNandy/CP/tree/master/1036-rotting-oranges) |
 ## Stack
 |  |
@@ -34,6 +37,7 @@
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/SarbajitNandy/CP/tree/master/0132-palindrome-partitioning-ii) |
 | [0337-house-robber-iii](https://github.com/SarbajitNandy/CP/tree/master/0337-house-robber-iii) |
+| [0542-01-matrix](https://github.com/SarbajitNandy/CP/tree/master/0542-01-matrix) |
 ## Tree
 |  |
 | ------- |
