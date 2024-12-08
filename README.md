@@ -16,6 +16,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/SarbajitNandy/CP/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SarbajitNandy/CP/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0542-01-matrix](https://github.com/SarbajitNandy/CP/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/SarbajitNandy/CP/tree/master/1036-rotting-oranges) |
@@ -48,6 +49,7 @@
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/SarbajitNandy/CP/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SarbajitNandy/CP/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0337-house-robber-iii](https://github.com/SarbajitNandy/CP/tree/master/0337-house-robber-iii) |
 ## Depth-First Search
@@ -57,6 +59,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/SarbajitNandy/CP/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SarbajitNandy/CP/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0337-house-robber-iii](https://github.com/SarbajitNandy/CP/tree/master/0337-house-robber-iii) |
 ## String
