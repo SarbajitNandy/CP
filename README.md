@@ -51,11 +51,13 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SarbajitNandy/CP/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SarbajitNandy/CP/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SarbajitNandy/CP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SarbajitNandy/CP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/SarbajitNandy/CP/tree/master/0337-house-robber-iii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SarbajitNandy/CP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SarbajitNandy/CP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/SarbajitNandy/CP/tree/master/0337-house-robber-iii) |
 ## Binary Tree
@@ -63,6 +65,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/SarbajitNandy/CP/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SarbajitNandy/CP/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SarbajitNandy/CP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SarbajitNandy/CP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/SarbajitNandy/CP/tree/master/0337-house-robber-iii) |
 ## String
@@ -114,4 +117,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SarbajitNandy/CP/tree/master/0042-trapping-rain-water) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SarbajitNandy/CP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
