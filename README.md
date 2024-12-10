@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/SarbajitNandy/CP/tree/master/0132-palindrome-partitioning-ii) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Queue
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SarbajitNandy/CP/tree/master/0239-sliding-window-maximum) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SarbajitNandy/CP/tree/master/0493-reverse-pairs) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,4 +126,12 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SarbajitNandy/CP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Counting
+|  |
+| ------- |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 <!---LeetCode Topics End-->
