@@ -50,6 +50,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SarbajitNandy/CP/tree/master/0042-trapping-rain-water) |
 | [0132-palindrome-partitioning-ii](https://github.com/SarbajitNandy/CP/tree/master/0132-palindrome-partitioning-ii) |
+| [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
 | [0337-house-robber-iii](https://github.com/SarbajitNandy/CP/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/SarbajitNandy/CP/tree/master/0377-combination-sum-iv) |
 | [0542-01-matrix](https://github.com/SarbajitNandy/CP/tree/master/0542-01-matrix) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SarbajitNandy/CP/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SarbajitNandy/CP/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Monotonic Queue
 |  |
@@ -135,6 +137,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting
 |  |
@@ -144,4 +147,8 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/SarbajitNandy/CP/tree/master/0304-range-sum-query-2d-immutable) |
+## Math
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
