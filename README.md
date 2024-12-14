@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/SarbajitNandy/CP/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/SarbajitNandy/CP/tree/master/0042-trapping-rain-water) |
 | [0239-sliding-window-maximum](https://github.com/SarbajitNandy/CP/tree/master/0239-sliding-window-maximum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SarbajitNandy/CP/tree/master/0304-range-sum-query-2d-immutable) |
@@ -129,6 +130,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/SarbajitNandy/CP/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/SarbajitNandy/CP/tree/master/0042-trapping-rain-water) |
 ## Binary Search Tree
 |  |
@@ -151,4 +153,8 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/SarbajitNandy/CP/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
