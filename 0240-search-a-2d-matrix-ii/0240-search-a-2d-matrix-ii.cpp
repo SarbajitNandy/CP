@@ -7,12 +7,12 @@ public:
         int row = 0, col = m-1;
 
         while(row<n && col>=0) {
-            if (matrix[row][col]==target) {return true;}
+            if (matrix[row][col]==target) {matrix.clear();return true;}
             else if (matrix[row][col]<target) row++;
             else col--;
         }
         
-        // matrix.clear();
+        matrix.clear();
         return false;
     }
 };
