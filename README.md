@@ -15,6 +15,7 @@
 | [0377-combination-sum-iv](https://github.com/SarbajitNandy/CP/tree/master/0377-combination-sum-iv) |
 | [0493-reverse-pairs](https://github.com/SarbajitNandy/CP/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/SarbajitNandy/CP/tree/master/0542-01-matrix) |
+| [0780-max-chunks-to-make-sorted](https://github.com/SarbajitNandy/CP/tree/master/0780-max-chunks-to-make-sorted) |
 | [1036-rotting-oranges](https://github.com/SarbajitNandy/CP/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SarbajitNandy/CP/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1985-maximum-subarray-min-product](https://github.com/SarbajitNandy/CP/tree/master/1985-maximum-subarray-min-product) |
@@ -37,11 +38,13 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SarbajitNandy/CP/tree/master/0042-trapping-rain-water) |
+| [0780-max-chunks-to-make-sorted](https://github.com/SarbajitNandy/CP/tree/master/0780-max-chunks-to-make-sorted) |
 | [1985-maximum-subarray-min-product](https://github.com/SarbajitNandy/CP/tree/master/1985-maximum-subarray-min-product) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SarbajitNandy/CP/tree/master/0042-trapping-rain-water) |
+| [0780-max-chunks-to-make-sorted](https://github.com/SarbajitNandy/CP/tree/master/0780-max-chunks-to-make-sorted) |
 | [1985-maximum-subarray-min-product](https://github.com/SarbajitNandy/CP/tree/master/1985-maximum-subarray-min-product) |
 ## Prefix Sum
 |  |
@@ -161,4 +164,9 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/SarbajitNandy/CP/tree/master/0018-4sum) |
+| [0780-max-chunks-to-make-sorted](https://github.com/SarbajitNandy/CP/tree/master/0780-max-chunks-to-make-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/SarbajitNandy/CP/tree/master/0780-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
