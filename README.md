@@ -168,6 +168,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
+| [0866-rectangle-overlap](https://github.com/SarbajitNandy/CP/tree/master/0866-rectangle-overlap) |
 ## Sorting
 |  |
 | ------- |
@@ -180,4 +181,8 @@
 | ------- |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/SarbajitNandy/CP/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SarbajitNandy/CP/tree/master/0780-max-chunks-to-make-sorted) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/SarbajitNandy/CP/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
