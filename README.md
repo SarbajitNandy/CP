@@ -15,6 +15,7 @@
 | [0377-combination-sum-iv](https://github.com/SarbajitNandy/CP/tree/master/0377-combination-sum-iv) |
 | [0493-reverse-pairs](https://github.com/SarbajitNandy/CP/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/SarbajitNandy/CP/tree/master/0542-01-matrix) |
+| [0658-find-k-closest-elements](https://github.com/SarbajitNandy/CP/tree/master/0658-find-k-closest-elements) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/SarbajitNandy/CP/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SarbajitNandy/CP/tree/master/0780-max-chunks-to-make-sorted) |
 | [1036-rotting-oranges](https://github.com/SarbajitNandy/CP/tree/master/1036-rotting-oranges) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SarbajitNandy/CP/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/SarbajitNandy/CP/tree/master/0658-find-k-closest-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Heap (Priority Queue)
 |  |
@@ -105,6 +107,7 @@
 | [0239-sliding-window-maximum](https://github.com/SarbajitNandy/CP/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SarbajitNandy/CP/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0658-find-k-closest-elements](https://github.com/SarbajitNandy/CP/tree/master/0658-find-k-closest-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -114,6 +117,7 @@
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/SarbajitNandy/CP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/SarbajitNandy/CP/tree/master/0493-reverse-pairs) |
+| [0658-find-k-closest-elements](https://github.com/SarbajitNandy/CP/tree/master/0658-find-k-closest-elements) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SarbajitNandy/CP/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Divide and Conquer
@@ -142,6 +146,7 @@
 | ------- |
 | [0018-4sum](https://github.com/SarbajitNandy/CP/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/SarbajitNandy/CP/tree/master/0042-trapping-rain-water) |
+| [0658-find-k-closest-elements](https://github.com/SarbajitNandy/CP/tree/master/0658-find-k-closest-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -167,6 +172,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/SarbajitNandy/CP/tree/master/0018-4sum) |
+| [0658-find-k-closest-elements](https://github.com/SarbajitNandy/CP/tree/master/0658-find-k-closest-elements) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/SarbajitNandy/CP/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SarbajitNandy/CP/tree/master/0780-max-chunks-to-make-sorted) |
 ## Greedy
