@@ -2,12 +2,11 @@ class Solution {
 public:
     int sumOfDivisiors(int num) {
         int cnt = 0, sum = 0;
-        for (int i=1; i <= sqrt(num); i++) {
+        int sq = sqrt(num);
+        for (int i=1; i <= sq; i++) {
             if (num % i == 0) {
-                if (i*i == num) {
-                    cnt++;
-                    sum += i ;
-                } else  {
+                if (i*i == num) return 0;
+                else  {
                     cnt+=2;
                     sum += i + (num/i);
                 } 
