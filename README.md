@@ -15,6 +15,7 @@
 | [0377-combination-sum-iv](https://github.com/SarbajitNandy/CP/tree/master/0377-combination-sum-iv) |
 | [0493-reverse-pairs](https://github.com/SarbajitNandy/CP/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/SarbajitNandy/CP/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/SarbajitNandy/CP/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/SarbajitNandy/CP/tree/master/0658-find-k-closest-elements) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/SarbajitNandy/CP/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SarbajitNandy/CP/tree/master/0780-max-chunks-to-make-sorted) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/SarbajitNandy/CP/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/SarbajitNandy/CP/tree/master/0560-subarray-sum-equals-k) |
 | [1985-maximum-subarray-min-product](https://github.com/SarbajitNandy/CP/tree/master/1985-maximum-subarray-min-product) |
 ## Dynamic Programming
 |  |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/SarbajitNandy/CP/tree/master/0560-subarray-sum-equals-k) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting
 |  |
