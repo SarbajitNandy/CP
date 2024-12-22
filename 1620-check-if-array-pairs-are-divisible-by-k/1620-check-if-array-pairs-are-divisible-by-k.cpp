@@ -1,16 +1,17 @@
 class Solution {
 public:
     bool canArrange(vector<int>& arr, int k) {
-        map<int,int> mp;
+        vector<int> mp(k,0);
 
         for(int e : arr) {
             mp[((e%k)+k)%k]++;
         }
 
-        for(auto e : mp) {
-            int rem = ((k-e.first) + k)%k;
+        for(int i = 0 ; i<k;i++) {
+            if (mp[i]==0) continue;
 
-            if (!mp.contains(rem) || mp[rem]!=e.second || (e.first==rem && e.second&1)) return false;
+            int rem = (k-i)%k;
+            if (mp[rem]==0 || mp[rem]!=mp[i] || (i==rem && mp[i]&1)) return false;
         }
         return true;
     }
