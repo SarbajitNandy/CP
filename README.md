@@ -171,6 +171,7 @@
 ## Math
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/SarbajitNandy/CP/tree/master/0223-rectangle-area) |
 | [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
 | [0866-rectangle-overlap](https://github.com/SarbajitNandy/CP/tree/master/0866-rectangle-overlap) |
 | [0903-implement-rand10-using-rand7](https://github.com/SarbajitNandy/CP/tree/master/0903-implement-rand10-using-rand7) |
@@ -190,6 +191,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/SarbajitNandy/CP/tree/master/0223-rectangle-area) |
 | [0866-rectangle-overlap](https://github.com/SarbajitNandy/CP/tree/master/0866-rectangle-overlap) |
 ## Rejection Sampling
 |  |
