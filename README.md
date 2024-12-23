@@ -174,6 +174,7 @@
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/SarbajitNandy/CP/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/SarbajitNandy/CP/tree/master/0223-rectangle-area) |
 | [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
 | [0866-rectangle-overlap](https://github.com/SarbajitNandy/CP/tree/master/0866-rectangle-overlap) |
