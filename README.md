@@ -218,4 +218,5 @@
 | ------- |
 | [0136-single-number](https://github.com/SarbajitNandy/CP/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0137-single-number-ii) |
+| [2659-number-of-even-and-odd-bits](https://github.com/SarbajitNandy/CP/tree/master/2659-number-of-even-and-odd-bits) |
 <!---LeetCode Topics End-->
