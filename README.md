@@ -8,6 +8,7 @@
 | ------- |
 | [0018-4sum](https://github.com/SarbajitNandy/CP/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/SarbajitNandy/CP/tree/master/0042-trapping-rain-water) |
+| [0136-single-number](https://github.com/SarbajitNandy/CP/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/SarbajitNandy/CP/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SarbajitNandy/CP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SarbajitNandy/CP/tree/master/0304-range-sum-query-2d-immutable) |
@@ -211,4 +212,8 @@
 |  |
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/SarbajitNandy/CP/tree/master/0903-implement-rand10-using-rand7) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/SarbajitNandy/CP/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
