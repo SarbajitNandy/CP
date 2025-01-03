@@ -24,6 +24,7 @@
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/SarbajitNandy/CP/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SarbajitNandy/CP/tree/master/0780-max-chunks-to-make-sorted) |
 | [1036-rotting-oranges](https://github.com/SarbajitNandy/CP/tree/master/1036-rotting-oranges) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/SarbajitNandy/CP/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1284-four-divisors](https://github.com/SarbajitNandy/CP/tree/master/1284-four-divisors) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SarbajitNandy/CP/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SarbajitNandy/CP/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -132,6 +133,7 @@
 | [0658-find-k-closest-elements](https://github.com/SarbajitNandy/CP/tree/master/0658-find-k-closest-elements) |
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/SarbajitNandy/CP/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
 | [0910-nth-magical-number](https://github.com/SarbajitNandy/CP/tree/master/0910-nth-magical-number) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/SarbajitNandy/CP/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SarbajitNandy/CP/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/SarbajitNandy/CP/tree/master/1675-magnetic-force-between-two-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
