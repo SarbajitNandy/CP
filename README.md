@@ -29,6 +29,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SarbajitNandy/CP/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SarbajitNandy/CP/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1675-magnetic-force-between-two-balls](https://github.com/SarbajitNandy/CP/tree/master/1675-magnetic-force-between-two-balls) |
+| [1762-furthest-building-you-can-reach](https://github.com/SarbajitNandy/CP/tree/master/1762-furthest-building-you-can-reach) |
 | [1985-maximum-subarray-min-product](https://github.com/SarbajitNandy/CP/tree/master/1985-maximum-subarray-min-product) |
 ## Breadth-First Search
 |  |
@@ -119,6 +120,7 @@
 | [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SarbajitNandy/CP/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0658-find-k-closest-elements](https://github.com/SarbajitNandy/CP/tree/master/0658-find-k-closest-elements) |
+| [1762-furthest-building-you-can-reach](https://github.com/SarbajitNandy/CP/tree/master/1762-furthest-building-you-can-reach) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -210,6 +212,7 @@
 | ------- |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/SarbajitNandy/CP/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SarbajitNandy/CP/tree/master/0780-max-chunks-to-make-sorted) |
+| [1762-furthest-building-you-can-reach](https://github.com/SarbajitNandy/CP/tree/master/1762-furthest-building-you-can-reach) |
 ## Geometry
 |  |
 | ------- |
