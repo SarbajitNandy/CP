@@ -194,6 +194,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/SarbajitNandy/CP/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/SarbajitNandy/CP/tree/master/0223-rectangle-area) |
 | [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
+| [0326-power-of-three](https://github.com/SarbajitNandy/CP/tree/master/0326-power-of-three) |
 | [0483-smallest-good-base](https://github.com/SarbajitNandy/CP/tree/master/0483-smallest-good-base) |
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/SarbajitNandy/CP/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
 | [0866-rectangle-overlap](https://github.com/SarbajitNandy/CP/tree/master/0866-rectangle-overlap) |
@@ -242,4 +243,8 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/SarbajitNandy/CP/tree/master/0047-permutations-ii) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/SarbajitNandy/CP/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
