@@ -18,6 +18,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SarbajitNandy/CP/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/SarbajitNandy/CP/tree/master/0377-combination-sum-iv) |
 | [0454-4sum-ii](https://github.com/SarbajitNandy/CP/tree/master/0454-4sum-ii) |
+| [0486-predict-the-winner](https://github.com/SarbajitNandy/CP/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/SarbajitNandy/CP/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/SarbajitNandy/CP/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SarbajitNandy/CP/tree/master/0560-subarray-sum-equals-k) |
@@ -76,6 +77,7 @@
 | [0337-house-robber-iii](https://github.com/SarbajitNandy/CP/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/SarbajitNandy/CP/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/SarbajitNandy/CP/tree/master/0377-combination-sum-iv) |
+| [0486-predict-the-winner](https://github.com/SarbajitNandy/CP/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/SarbajitNandy/CP/tree/master/0542-01-matrix) |
 ## Tree
 |  |
@@ -196,6 +198,7 @@
 | [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/SarbajitNandy/CP/tree/master/0326-power-of-three) |
 | [0483-smallest-good-base](https://github.com/SarbajitNandy/CP/tree/master/0483-smallest-good-base) |
+| [0486-predict-the-winner](https://github.com/SarbajitNandy/CP/tree/master/0486-predict-the-winner) |
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/SarbajitNandy/CP/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
 | [0866-rectangle-overlap](https://github.com/SarbajitNandy/CP/tree/master/0866-rectangle-overlap) |
 | [0903-implement-rand10-using-rand7](https://github.com/SarbajitNandy/CP/tree/master/0903-implement-rand10-using-rand7) |
@@ -247,4 +250,9 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/SarbajitNandy/CP/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/SarbajitNandy/CP/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/SarbajitNandy/CP/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
