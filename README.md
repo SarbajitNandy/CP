@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/SarbajitNandy/CP/tree/master/0018-4sum) |
+| [0040-combination-sum-ii](https://github.com/SarbajitNandy/CP/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/SarbajitNandy/CP/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/SarbajitNandy/CP/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/SarbajitNandy/CP/tree/master/0090-subsets-ii) |
@@ -249,6 +250,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/SarbajitNandy/CP/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/SarbajitNandy/CP/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/SarbajitNandy/CP/tree/master/0090-subsets-ii) |
 ## Recursion
