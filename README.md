@@ -131,6 +131,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SarbajitNandy/CP/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/SarbajitNandy/CP/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SarbajitNandy/CP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0483-smallest-good-base](https://github.com/SarbajitNandy/CP/tree/master/0483-smallest-good-base) |
@@ -193,6 +194,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SarbajitNandy/CP/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/SarbajitNandy/CP/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/SarbajitNandy/CP/tree/master/0223-rectangle-area) |
 | [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
