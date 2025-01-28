@@ -198,6 +198,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SarbajitNandy/CP/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/SarbajitNandy/CP/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/SarbajitNandy/CP/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/SarbajitNandy/CP/tree/master/0223-rectangle-area) |
 | [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
@@ -243,6 +244,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/SarbajitNandy/CP/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/SarbajitNandy/CP/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/SarbajitNandy/CP/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0137-single-number-ii) |
@@ -254,6 +256,7 @@
 | [0040-combination-sum-ii](https://github.com/SarbajitNandy/CP/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/SarbajitNandy/CP/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/SarbajitNandy/CP/tree/master/0051-n-queens) |
+| [0089-gray-code](https://github.com/SarbajitNandy/CP/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/SarbajitNandy/CP/tree/master/0090-subsets-ii) |
 ## Recursion
 |  |
