@@ -10,6 +10,7 @@
 | [0040-combination-sum-ii](https://github.com/SarbajitNandy/CP/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/SarbajitNandy/CP/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/SarbajitNandy/CP/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/SarbajitNandy/CP/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/SarbajitNandy/CP/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/SarbajitNandy/CP/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0137-single-number-ii) |
@@ -252,6 +253,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/SarbajitNandy/CP/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/SarbajitNandy/CP/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/SarbajitNandy/CP/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/SarbajitNandy/CP/tree/master/0090-subsets-ii) |
 ## Recursion
 |  |
