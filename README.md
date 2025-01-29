@@ -23,6 +23,7 @@
 | [0454-4sum-ii](https://github.com/SarbajitNandy/CP/tree/master/0454-4sum-ii) |
 | [0486-predict-the-winner](https://github.com/SarbajitNandy/CP/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/SarbajitNandy/CP/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/SarbajitNandy/CP/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/SarbajitNandy/CP/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SarbajitNandy/CP/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/SarbajitNandy/CP/tree/master/0658-find-k-closest-elements) |
@@ -81,6 +82,7 @@
 | [0338-counting-bits](https://github.com/SarbajitNandy/CP/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/SarbajitNandy/CP/tree/master/0377-combination-sum-iv) |
 | [0486-predict-the-winner](https://github.com/SarbajitNandy/CP/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/SarbajitNandy/CP/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/SarbajitNandy/CP/tree/master/0542-01-matrix) |
 ## Tree
 |  |
@@ -258,6 +260,7 @@
 | [0051-n-queens](https://github.com/SarbajitNandy/CP/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/SarbajitNandy/CP/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/SarbajitNandy/CP/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/SarbajitNandy/CP/tree/master/0494-target-sum) |
 ## Recursion
 |  |
 | ------- |
