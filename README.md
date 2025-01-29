@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/SarbajitNandy/CP/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/SarbajitNandy/CP/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/SarbajitNandy/CP/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/SarbajitNandy/CP/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/SarbajitNandy/CP/tree/master/0047-permutations-ii) |
@@ -47,6 +48,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SarbajitNandy/CP/tree/master/0037-sudoku-solver) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SarbajitNandy/CP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SarbajitNandy/CP/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/SarbajitNandy/CP/tree/master/0542-01-matrix) |
@@ -185,6 +187,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SarbajitNandy/CP/tree/master/0037-sudoku-solver) |
 | [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
 | [0454-4sum-ii](https://github.com/SarbajitNandy/CP/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SarbajitNandy/CP/tree/master/0560-subarray-sum-equals-k) |
@@ -259,6 +262,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SarbajitNandy/CP/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/SarbajitNandy/CP/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/SarbajitNandy/CP/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/SarbajitNandy/CP/tree/master/0051-n-queens) |
