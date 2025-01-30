@@ -12,6 +12,7 @@
 | [0042-trapping-rain-water](https://github.com/SarbajitNandy/CP/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/SarbajitNandy/CP/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/SarbajitNandy/CP/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/SarbajitNandy/CP/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SarbajitNandy/CP/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/SarbajitNandy/CP/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0137-single-number-ii) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SarbajitNandy/CP/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/SarbajitNandy/CP/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SarbajitNandy/CP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SarbajitNandy/CP/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/SarbajitNandy/CP/tree/master/0542-01-matrix) |
@@ -98,6 +100,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SarbajitNandy/CP/tree/master/0079-word-search) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SarbajitNandy/CP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SarbajitNandy/CP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/SarbajitNandy/CP/tree/master/0337-house-robber-iii) |
@@ -112,6 +115,7 @@
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SarbajitNandy/CP/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/SarbajitNandy/CP/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/SarbajitNandy/CP/tree/master/0132-palindrome-partitioning-ii) |
 | [0800-letter-case-permutation](https://github.com/SarbajitNandy/CP/tree/master/0800-letter-case-permutation) |
@@ -266,6 +270,7 @@
 | [0040-combination-sum-ii](https://github.com/SarbajitNandy/CP/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/SarbajitNandy/CP/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/SarbajitNandy/CP/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/SarbajitNandy/CP/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/SarbajitNandy/CP/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/SarbajitNandy/CP/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/SarbajitNandy/CP/tree/master/0131-palindrome-partitioning) |
