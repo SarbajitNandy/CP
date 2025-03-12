@@ -203,6 +203,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SarbajitNandy/CP/tree/master/0037-sudoku-solver) |
+| [0138-copy-list-with-random-pointer](https://github.com/SarbajitNandy/CP/tree/master/0138-copy-list-with-random-pointer) |
 | [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
 | [0454-4sum-ii](https://github.com/SarbajitNandy/CP/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SarbajitNandy/CP/tree/master/0560-subarray-sum-equals-k) |
@@ -302,4 +303,8 @@
 |  |
 | ------- |
 | [1120-flower-planting-with-no-adjacent](https://github.com/SarbajitNandy/CP/tree/master/1120-flower-planting-with-no-adjacent) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/SarbajitNandy/CP/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
