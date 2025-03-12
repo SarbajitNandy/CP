@@ -30,6 +30,7 @@
 | [0542-01-matrix](https://github.com/SarbajitNandy/CP/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SarbajitNandy/CP/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/SarbajitNandy/CP/tree/master/0658-find-k-closest-elements) |
+| [0739-daily-temperatures](https://github.com/SarbajitNandy/CP/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/SarbajitNandy/CP/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SarbajitNandy/CP/tree/master/0780-max-chunks-to-make-sorted) |
 | [1036-rotting-oranges](https://github.com/SarbajitNandy/CP/tree/master/1036-rotting-oranges) |
@@ -64,6 +65,7 @@
 | [0042-trapping-rain-water](https://github.com/SarbajitNandy/CP/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/SarbajitNandy/CP/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/SarbajitNandy/CP/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/SarbajitNandy/CP/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/SarbajitNandy/CP/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SarbajitNandy/CP/tree/master/0780-max-chunks-to-make-sorted) |
 | [1985-maximum-subarray-min-product](https://github.com/SarbajitNandy/CP/tree/master/1985-maximum-subarray-min-product) |
@@ -72,6 +74,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SarbajitNandy/CP/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/SarbajitNandy/CP/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/SarbajitNandy/CP/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/SarbajitNandy/CP/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SarbajitNandy/CP/tree/master/0780-max-chunks-to-make-sorted) |
 | [1985-maximum-subarray-min-product](https://github.com/SarbajitNandy/CP/tree/master/1985-maximum-subarray-min-product) |
