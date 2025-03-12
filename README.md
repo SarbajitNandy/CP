@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SarbajitNandy/CP/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/SarbajitNandy/CP/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/SarbajitNandy/CP/tree/master/0503-next-greater-element-ii) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/SarbajitNandy/CP/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SarbajitNandy/CP/tree/master/0780-max-chunks-to-make-sorted) |
@@ -210,6 +211,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/SarbajitNandy/CP/tree/master/0155-min-stack) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SarbajitNandy/CP/tree/master/0304-range-sum-query-2d-immutable) |
 ## Math
 |  |
