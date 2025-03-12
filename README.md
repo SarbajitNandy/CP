@@ -21,6 +21,7 @@
 | [0239-sliding-window-maximum](https://github.com/SarbajitNandy/CP/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SarbajitNandy/CP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SarbajitNandy/CP/tree/master/0304-range-sum-query-2d-immutable) |
+| [0336-palindrome-pairs](https://github.com/SarbajitNandy/CP/tree/master/0336-palindrome-pairs) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SarbajitNandy/CP/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/SarbajitNandy/CP/tree/master/0377-combination-sum-iv) |
 | [0454-4sum-ii](https://github.com/SarbajitNandy/CP/tree/master/0454-4sum-ii) |
@@ -129,6 +130,7 @@
 | [0079-word-search](https://github.com/SarbajitNandy/CP/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/SarbajitNandy/CP/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/SarbajitNandy/CP/tree/master/0132-palindrome-partitioning-ii) |
+| [0336-palindrome-pairs](https://github.com/SarbajitNandy/CP/tree/master/0336-palindrome-pairs) |
 | [0800-letter-case-permutation](https://github.com/SarbajitNandy/CP/tree/master/0800-letter-case-permutation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Queue
@@ -205,6 +207,7 @@
 | [0037-sudoku-solver](https://github.com/SarbajitNandy/CP/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/SarbajitNandy/CP/tree/master/0138-copy-list-with-random-pointer) |
 | [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
+| [0336-palindrome-pairs](https://github.com/SarbajitNandy/CP/tree/master/0336-palindrome-pairs) |
 | [0454-4sum-ii](https://github.com/SarbajitNandy/CP/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SarbajitNandy/CP/tree/master/0560-subarray-sum-equals-k) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SarbajitNandy/CP/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -307,4 +310,8 @@
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/SarbajitNandy/CP/tree/master/0138-copy-list-with-random-pointer) |
+## Trie
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/SarbajitNandy/CP/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
