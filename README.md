@@ -72,6 +72,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/SarbajitNandy/CP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SarbajitNandy/CP/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SarbajitNandy/CP/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/SarbajitNandy/CP/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/SarbajitNandy/CP/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SarbajitNandy/CP/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/SarbajitNandy/CP/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SarbajitNandy/CP/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/SarbajitNandy/CP/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/SarbajitNandy/CP/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
@@ -232,6 +234,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/SarbajitNandy/CP/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SarbajitNandy/CP/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/SarbajitNandy/CP/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SarbajitNandy/CP/tree/master/0304-range-sum-query-2d-immutable) |
 ## Math
 |  |
