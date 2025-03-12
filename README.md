@@ -67,6 +67,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SarbajitNandy/CP/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SarbajitNandy/CP/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SarbajitNandy/CP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SarbajitNandy/CP/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -97,6 +98,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SarbajitNandy/CP/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SarbajitNandy/CP/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/SarbajitNandy/CP/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/SarbajitNandy/CP/tree/master/0132-palindrome-partitioning-ii) |
@@ -135,6 +137,7 @@
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SarbajitNandy/CP/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/SarbajitNandy/CP/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/SarbajitNandy/CP/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/SarbajitNandy/CP/tree/master/0132-palindrome-partitioning-ii) |
