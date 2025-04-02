@@ -149,6 +149,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/SarbajitNandy/CP/tree/master/0132-palindrome-partitioning-ii) |
 | [0336-palindrome-pairs](https://github.com/SarbajitNandy/CP/tree/master/0336-palindrome-pairs) |
 | [0800-letter-case-permutation](https://github.com/SarbajitNandy/CP/tree/master/0800-letter-case-permutation) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SarbajitNandy/CP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Queue
 |  |
@@ -161,6 +162,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SarbajitNandy/CP/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/SarbajitNandy/CP/tree/master/0658-find-k-closest-elements) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SarbajitNandy/CP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Heap (Priority Queue)
 |  |
@@ -232,6 +234,7 @@
 | [0336-palindrome-pairs](https://github.com/SarbajitNandy/CP/tree/master/0336-palindrome-pairs) |
 | [0454-4sum-ii](https://github.com/SarbajitNandy/CP/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SarbajitNandy/CP/tree/master/0560-subarray-sum-equals-k) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/SarbajitNandy/CP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SarbajitNandy/CP/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting
