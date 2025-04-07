@@ -41,6 +41,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SarbajitNandy/CP/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1284-four-divisors](https://github.com/SarbajitNandy/CP/tree/master/1284-four-divisors) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SarbajitNandy/CP/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SarbajitNandy/CP/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SarbajitNandy/CP/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1675-magnetic-force-between-two-balls](https://github.com/SarbajitNandy/CP/tree/master/1675-magnetic-force-between-two-balls) |
 | [1762-furthest-building-you-can-reach](https://github.com/SarbajitNandy/CP/tree/master/1762-furthest-building-you-can-reach) |
@@ -157,12 +158,14 @@
 | [0225-implement-stack-using-queues](https://github.com/SarbajitNandy/CP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SarbajitNandy/CP/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/SarbajitNandy/CP/tree/master/0239-sliding-window-maximum) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SarbajitNandy/CP/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Sliding Window
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SarbajitNandy/CP/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/SarbajitNandy/CP/tree/master/0658-find-k-closest-elements) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SarbajitNandy/CP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SarbajitNandy/CP/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Heap (Priority Queue)
 |  |
@@ -171,11 +174,13 @@
 | [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SarbajitNandy/CP/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0658-find-k-closest-elements](https://github.com/SarbajitNandy/CP/tree/master/0658-find-k-closest-elements) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SarbajitNandy/CP/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1762-furthest-building-you-can-reach](https://github.com/SarbajitNandy/CP/tree/master/1762-furthest-building-you-can-reach) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SarbajitNandy/CP/tree/master/0239-sliding-window-maximum) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SarbajitNandy/CP/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Binary Search
 |  |
 | ------- |
@@ -214,6 +219,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SarbajitNandy/CP/tree/master/0493-reverse-pairs) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SarbajitNandy/CP/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Two Pointers
 |  |
 | ------- |
