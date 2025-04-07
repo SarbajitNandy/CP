@@ -37,6 +37,7 @@
 | [0739-daily-temperatures](https://github.com/SarbajitNandy/CP/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/SarbajitNandy/CP/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SarbajitNandy/CP/tree/master/0780-max-chunks-to-make-sorted) |
+| [0833-bus-routes](https://github.com/SarbajitNandy/CP/tree/master/0833-bus-routes) |
 | [1036-rotting-oranges](https://github.com/SarbajitNandy/CP/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SarbajitNandy/CP/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1284-four-divisors](https://github.com/SarbajitNandy/CP/tree/master/1284-four-divisors) |
@@ -56,6 +57,7 @@
 | [0210-course-schedule-ii](https://github.com/SarbajitNandy/CP/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/SarbajitNandy/CP/tree/master/0542-01-matrix) |
 | [0801-is-graph-bipartite](https://github.com/SarbajitNandy/CP/tree/master/0801-is-graph-bipartite) |
+| [0833-bus-routes](https://github.com/SarbajitNandy/CP/tree/master/0833-bus-routes) |
 | [1036-rotting-oranges](https://github.com/SarbajitNandy/CP/tree/master/1036-rotting-oranges) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/SarbajitNandy/CP/tree/master/1120-flower-planting-with-no-adjacent) |
 ## Matrix
@@ -240,6 +242,7 @@
 | [0336-palindrome-pairs](https://github.com/SarbajitNandy/CP/tree/master/0336-palindrome-pairs) |
 | [0454-4sum-ii](https://github.com/SarbajitNandy/CP/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SarbajitNandy/CP/tree/master/0560-subarray-sum-equals-k) |
+| [0833-bus-routes](https://github.com/SarbajitNandy/CP/tree/master/0833-bus-routes) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SarbajitNandy/CP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SarbajitNandy/CP/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
