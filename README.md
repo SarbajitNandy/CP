@@ -48,6 +48,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/SarbajitNandy/CP/tree/master/1675-magnetic-force-between-two-balls) |
 | [1762-furthest-building-you-can-reach](https://github.com/SarbajitNandy/CP/tree/master/1762-furthest-building-you-can-reach) |
 | [1985-maximum-subarray-min-product](https://github.com/SarbajitNandy/CP/tree/master/1985-maximum-subarray-min-product) |
+| [2889-number-of-black-blocks](https://github.com/SarbajitNandy/CP/tree/master/2889-number-of-black-blocks) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -247,6 +248,7 @@
 | [0833-bus-routes](https://github.com/SarbajitNandy/CP/tree/master/0833-bus-routes) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SarbajitNandy/CP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SarbajitNandy/CP/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2889-number-of-black-blocks](https://github.com/SarbajitNandy/CP/tree/master/2889-number-of-black-blocks) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting
 |  |
@@ -366,4 +368,8 @@
 | ------- |
 | [0305-number-of-islands-ii](https://github.com/SarbajitNandy/CP/tree/master/0305-number-of-islands-ii) |
 | [0801-is-graph-bipartite](https://github.com/SarbajitNandy/CP/tree/master/0801-is-graph-bipartite) |
+## Enumeration
+|  |
+| ------- |
+| [2889-number-of-black-blocks](https://github.com/SarbajitNandy/CP/tree/master/2889-number-of-black-blocks) |
 <!---LeetCode Topics End-->
