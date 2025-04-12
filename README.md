@@ -51,6 +51,7 @@
 | [1762-furthest-building-you-can-reach](https://github.com/SarbajitNandy/CP/tree/master/1762-furthest-building-you-can-reach) |
 | [1985-maximum-subarray-min-product](https://github.com/SarbajitNandy/CP/tree/master/1985-maximum-subarray-min-product) |
 | [2889-number-of-black-blocks](https://github.com/SarbajitNandy/CP/tree/master/2889-number-of-black-blocks) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SarbajitNandy/CP/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0854-making-a-large-island](https://github.com/SarbajitNandy/CP/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/SarbajitNandy/CP/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SarbajitNandy/CP/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SarbajitNandy/CP/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -259,11 +261,13 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SarbajitNandy/CP/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2889-number-of-black-blocks](https://github.com/SarbajitNandy/CP/tree/master/2889-number-of-black-blocks) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SarbajitNandy/CP/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Counting
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SarbajitNandy/CP/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SarbajitNandy/CP/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Design
 |  |
 | ------- |
