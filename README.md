@@ -157,6 +157,7 @@
 | [0131-palindrome-partitioning](https://github.com/SarbajitNandy/CP/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/SarbajitNandy/CP/tree/master/0132-palindrome-partitioning-ii) |
 | [0336-palindrome-pairs](https://github.com/SarbajitNandy/CP/tree/master/0336-palindrome-pairs) |
+| [0564-find-the-closest-palindrome](https://github.com/SarbajitNandy/CP/tree/master/0564-find-the-closest-palindrome) |
 | [0800-letter-case-permutation](https://github.com/SarbajitNandy/CP/tree/master/0800-letter-case-permutation) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SarbajitNandy/CP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -278,6 +279,7 @@
 | [0326-power-of-three](https://github.com/SarbajitNandy/CP/tree/master/0326-power-of-three) |
 | [0483-smallest-good-base](https://github.com/SarbajitNandy/CP/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/SarbajitNandy/CP/tree/master/0486-predict-the-winner) |
+| [0564-find-the-closest-palindrome](https://github.com/SarbajitNandy/CP/tree/master/0564-find-the-closest-palindrome) |
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/SarbajitNandy/CP/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
 | [0866-rectangle-overlap](https://github.com/SarbajitNandy/CP/tree/master/0866-rectangle-overlap) |
 | [0903-implement-rand10-using-rand7](https://github.com/SarbajitNandy/CP/tree/master/0903-implement-rand10-using-rand7) |
