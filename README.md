@@ -52,6 +52,7 @@
 | [1762-furthest-building-you-can-reach](https://github.com/SarbajitNandy/CP/tree/master/1762-furthest-building-you-can-reach) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SarbajitNandy/CP/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1985-maximum-subarray-min-product](https://github.com/SarbajitNandy/CP/tree/master/1985-maximum-subarray-min-product) |
+| [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/SarbajitNandy/CP/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2889-number-of-black-blocks](https://github.com/SarbajitNandy/CP/tree/master/2889-number-of-black-blocks) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SarbajitNandy/CP/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Breadth-First Search
