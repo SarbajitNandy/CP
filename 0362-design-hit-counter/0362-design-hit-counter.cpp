@@ -1,22 +1,22 @@
 class HitCounter {
 public:
-    vector<int> orders;
+    queue<int> orders;
     HitCounter() {
         
     }
     
     void hit(int timestamp) {
-        orders.push_back(timestamp);
+        orders.push(timestamp);
     }
     
     int getHits(int timestamp) {
-        int low = timestamp - 300;
-        int high = timestamp;
+        while(!orders.empty()) {
+            if (timestamp - orders.front() >= 300) {
+                orders.pop();
+            } else break;
+        }
 
-        int id = upper_bound(orders.begin(), orders.end(), low) - orders.begin();
-
-        return orders.size() - id;
-
+        return orders.size();
     }
 };
 
