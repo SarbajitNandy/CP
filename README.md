@@ -88,6 +88,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SarbajitNandy/CP/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SarbajitNandy/CP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SarbajitNandy/CP/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/SarbajitNandy/CP/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/SarbajitNandy/CP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SarbajitNandy/CP/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/SarbajitNandy/CP/tree/master/0503-next-greater-element-ii) |
@@ -162,6 +163,7 @@
 | [0079-word-search](https://github.com/SarbajitNandy/CP/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/SarbajitNandy/CP/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/SarbajitNandy/CP/tree/master/0132-palindrome-partitioning-ii) |
+| [0224-basic-calculator](https://github.com/SarbajitNandy/CP/tree/master/0224-basic-calculator) |
 | [0269-alien-dictionary](https://github.com/SarbajitNandy/CP/tree/master/0269-alien-dictionary) |
 | [0336-palindrome-pairs](https://github.com/SarbajitNandy/CP/tree/master/0336-palindrome-pairs) |
 | [0564-find-the-closest-palindrome](https://github.com/SarbajitNandy/CP/tree/master/0564-find-the-closest-palindrome) |
@@ -286,6 +288,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/SarbajitNandy/CP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/SarbajitNandy/CP/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/SarbajitNandy/CP/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/SarbajitNandy/CP/tree/master/0224-basic-calculator) |
 | [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/SarbajitNandy/CP/tree/master/0326-power-of-three) |
 | [0483-smallest-good-base](https://github.com/SarbajitNandy/CP/tree/master/0483-smallest-good-base) |
@@ -354,6 +357,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/SarbajitNandy/CP/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/SarbajitNandy/CP/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/SarbajitNandy/CP/tree/master/0486-predict-the-winner) |
 ## Game Theory
