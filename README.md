@@ -49,6 +49,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SarbajitNandy/CP/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1675-magnetic-force-between-two-balls](https://github.com/SarbajitNandy/CP/tree/master/1675-magnetic-force-between-two-balls) |
 | [1762-furthest-building-you-can-reach](https://github.com/SarbajitNandy/CP/tree/master/1762-furthest-building-you-can-reach) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/SarbajitNandy/CP/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1985-maximum-subarray-min-product](https://github.com/SarbajitNandy/CP/tree/master/1985-maximum-subarray-min-product) |
 | [2889-number-of-black-blocks](https://github.com/SarbajitNandy/CP/tree/master/2889-number-of-black-blocks) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SarbajitNandy/CP/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -259,6 +260,7 @@
 | [0833-bus-routes](https://github.com/SarbajitNandy/CP/tree/master/0833-bus-routes) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SarbajitNandy/CP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SarbajitNandy/CP/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/SarbajitNandy/CP/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2889-number-of-black-blocks](https://github.com/SarbajitNandy/CP/tree/master/2889-number-of-black-blocks) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SarbajitNandy/CP/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -266,6 +268,7 @@
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SarbajitNandy/CP/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/SarbajitNandy/CP/tree/master/1925-count-nice-pairs-in-an-array) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SarbajitNandy/CP/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Design
@@ -293,6 +296,7 @@
 | [0903-implement-rand10-using-rand7](https://github.com/SarbajitNandy/CP/tree/master/0903-implement-rand10-using-rand7) |
 | [0910-nth-magical-number](https://github.com/SarbajitNandy/CP/tree/master/0910-nth-magical-number) |
 | [1284-four-divisors](https://github.com/SarbajitNandy/CP/tree/master/1284-four-divisors) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/SarbajitNandy/CP/tree/master/1925-count-nice-pairs-in-an-array) |
 ## Sorting
 |  |
 | ------- |
