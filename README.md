@@ -26,6 +26,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/SarbajitNandy/CP/tree/master/0304-range-sum-query-2d-immutable) |
 | [0305-number-of-islands-ii](https://github.com/SarbajitNandy/CP/tree/master/0305-number-of-islands-ii) |
 | [0336-palindrome-pairs](https://github.com/SarbajitNandy/CP/tree/master/0336-palindrome-pairs) |
+| [0362-design-hit-counter](https://github.com/SarbajitNandy/CP/tree/master/0362-design-hit-counter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SarbajitNandy/CP/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/SarbajitNandy/CP/tree/master/0377-combination-sum-iv) |
 | [0454-4sum-ii](https://github.com/SarbajitNandy/CP/tree/master/0454-4sum-ii) |
@@ -176,6 +177,7 @@
 | [0225-implement-stack-using-queues](https://github.com/SarbajitNandy/CP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SarbajitNandy/CP/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/SarbajitNandy/CP/tree/master/0239-sliding-window-maximum) |
+| [0362-design-hit-counter](https://github.com/SarbajitNandy/CP/tree/master/0362-design-hit-counter) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SarbajitNandy/CP/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Sliding Window
 |  |
@@ -206,6 +208,7 @@
 | [0069-sqrtx](https://github.com/SarbajitNandy/CP/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/SarbajitNandy/CP/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SarbajitNandy/CP/tree/master/0240-search-a-2d-matrix-ii) |
+| [0362-design-hit-counter](https://github.com/SarbajitNandy/CP/tree/master/0362-design-hit-counter) |
 | [0483-smallest-good-base](https://github.com/SarbajitNandy/CP/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/SarbajitNandy/CP/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/SarbajitNandy/CP/tree/master/0658-find-k-closest-elements) |
@@ -280,6 +283,7 @@
 | [0225-implement-stack-using-queues](https://github.com/SarbajitNandy/CP/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SarbajitNandy/CP/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SarbajitNandy/CP/tree/master/0304-range-sum-query-2d-immutable) |
+| [0362-design-hit-counter](https://github.com/SarbajitNandy/CP/tree/master/0362-design-hit-counter) |
 ## Math
 |  |
 | ------- |
@@ -397,4 +401,8 @@
 |  |
 | ------- |
 | [2889-number-of-black-blocks](https://github.com/SarbajitNandy/CP/tree/master/2889-number-of-black-blocks) |
+## Data Stream
+|  |
+| ------- |
+| [0362-design-hit-counter](https://github.com/SarbajitNandy/CP/tree/master/0362-design-hit-counter) |
 <!---LeetCode Topics End-->
