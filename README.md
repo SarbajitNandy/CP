@@ -128,6 +128,7 @@
 | [0486-predict-the-winner](https://github.com/SarbajitNandy/CP/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SarbajitNandy/CP/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/SarbajitNandy/CP/tree/master/0542-01-matrix) |
+| [2577-count-palindromic-subsequences](https://github.com/SarbajitNandy/CP/tree/master/2577-count-palindromic-subsequences) |
 ## Tree
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/SarbajitNandy/CP/tree/master/0564-find-the-closest-palindrome) |
 | [0800-letter-case-permutation](https://github.com/SarbajitNandy/CP/tree/master/0800-letter-case-permutation) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SarbajitNandy/CP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2577-count-palindromic-subsequences](https://github.com/SarbajitNandy/CP/tree/master/2577-count-palindromic-subsequences) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Queue
 |  |
