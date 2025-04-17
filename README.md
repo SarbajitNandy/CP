@@ -253,6 +253,7 @@
 | ------- |
 | [0018-4sum](https://github.com/SarbajitNandy/CP/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/SarbajitNandy/CP/tree/master/0042-trapping-rain-water) |
+| [0277-find-the-celebrity](https://github.com/SarbajitNandy/CP/tree/master/0277-find-the-celebrity) |
 | [0658-find-k-closest-elements](https://github.com/SarbajitNandy/CP/tree/master/0658-find-k-closest-elements) |
 ## Binary Search Tree
 |  |
@@ -385,6 +386,7 @@
 | [0207-course-schedule](https://github.com/SarbajitNandy/CP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SarbajitNandy/CP/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/SarbajitNandy/CP/tree/master/0269-alien-dictionary) |
+| [0277-find-the-celebrity](https://github.com/SarbajitNandy/CP/tree/master/0277-find-the-celebrity) |
 | [0801-is-graph-bipartite](https://github.com/SarbajitNandy/CP/tree/master/0801-is-graph-bipartite) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/SarbajitNandy/CP/tree/master/1120-flower-planting-with-no-adjacent) |
 ## Linked List
@@ -417,4 +419,8 @@
 |  |
 | ------- |
 | [0362-design-hit-counter](https://github.com/SarbajitNandy/CP/tree/master/0362-design-hit-counter) |
+## Interactive
+|  |
+| ------- |
+| [0277-find-the-celebrity](https://github.com/SarbajitNandy/CP/tree/master/0277-find-the-celebrity) |
 <!---LeetCode Topics End-->
