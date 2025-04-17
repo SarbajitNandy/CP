@@ -5,22 +5,22 @@ class Solution {
 public:
     int findCelebrity(int n) {
         int N = n;
-    int candidate = 0;
+        int candidate = 0;
 
-    for (int i = 1; i < N; ++i) {
-        if (knows(candidate, i)) {
-            candidate = i;
-        }
-    }
-
-    for (int i = 0; i < N; ++i) {
-        if (i != candidate) {
-            if (!knows(i, candidate) || knows(candidate, i)) {
-                return -1;
+        for (int i = 1; i < N; ++i) {
+            if (knows(candidate, i)) {
+                candidate = i;
             }
         }
-    }
 
-    return candidate;
+        for (int i = 0; i < N; ++i) {
+            if (i != candidate) {
+                if (!knows(i, candidate) || knows(candidate, i)) {
+                    return -1;
+                }
+            }
+        }
+
+        return candidate;
     }
 };
