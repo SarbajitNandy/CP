@@ -15,6 +15,7 @@
 | [0051-n-queens](https://github.com/SarbajitNandy/CP/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/SarbajitNandy/CP/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SarbajitNandy/CP/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SarbajitNandy/CP/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/SarbajitNandy/CP/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/SarbajitNandy/CP/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0137-single-number-ii) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/SarbajitNandy/CP/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/SarbajitNandy/CP/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/SarbajitNandy/CP/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/SarbajitNandy/CP/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SarbajitNandy/CP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SarbajitNandy/CP/tree/master/0304-range-sum-query-2d-immutable) |
@@ -93,6 +95,7 @@
 | [0032-longest-valid-parentheses](https://github.com/SarbajitNandy/CP/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SarbajitNandy/CP/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SarbajitNandy/CP/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SarbajitNandy/CP/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SarbajitNandy/CP/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SarbajitNandy/CP/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/SarbajitNandy/CP/tree/master/0224-basic-calculator) |
@@ -108,6 +111,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SarbajitNandy/CP/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SarbajitNandy/CP/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SarbajitNandy/CP/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/SarbajitNandy/CP/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SarbajitNandy/CP/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/SarbajitNandy/CP/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -124,6 +128,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SarbajitNandy/CP/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SarbajitNandy/CP/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/SarbajitNandy/CP/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/SarbajitNandy/CP/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/SarbajitNandy/CP/tree/master/0132-palindrome-partitioning-ii) |
 | [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
