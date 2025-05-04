@@ -31,6 +31,7 @@
 | [0362-design-hit-counter](https://github.com/SarbajitNandy/CP/tree/master/0362-design-hit-counter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/SarbajitNandy/CP/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/SarbajitNandy/CP/tree/master/0377-combination-sum-iv) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SarbajitNandy/CP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0454-4sum-ii](https://github.com/SarbajitNandy/CP/tree/master/0454-4sum-ii) |
 | [0486-predict-the-winner](https://github.com/SarbajitNandy/CP/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/SarbajitNandy/CP/tree/master/0493-reverse-pairs) |
@@ -280,6 +281,7 @@
 | [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
 | [0305-number-of-islands-ii](https://github.com/SarbajitNandy/CP/tree/master/0305-number-of-islands-ii) |
 | [0336-palindrome-pairs](https://github.com/SarbajitNandy/CP/tree/master/0336-palindrome-pairs) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SarbajitNandy/CP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0454-4sum-ii](https://github.com/SarbajitNandy/CP/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/SarbajitNandy/CP/tree/master/0560-subarray-sum-equals-k) |
 | [0833-bus-routes](https://github.com/SarbajitNandy/CP/tree/master/0833-bus-routes) |
@@ -305,6 +307,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/SarbajitNandy/CP/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SarbajitNandy/CP/tree/master/0304-range-sum-query-2d-immutable) |
 | [0362-design-hit-counter](https://github.com/SarbajitNandy/CP/tree/master/0362-design-hit-counter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SarbajitNandy/CP/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
 |  |
 | ------- |
@@ -316,6 +319,7 @@
 | [0224-basic-calculator](https://github.com/SarbajitNandy/CP/tree/master/0224-basic-calculator) |
 | [0264-ugly-number-ii](https://github.com/SarbajitNandy/CP/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/SarbajitNandy/CP/tree/master/0326-power-of-three) |
+| [0380-insert-delete-getrandom-o1](https://github.com/SarbajitNandy/CP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0483-smallest-good-base](https://github.com/SarbajitNandy/CP/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/SarbajitNandy/CP/tree/master/0486-predict-the-winner) |
 | [0564-find-the-closest-palindrome](https://github.com/SarbajitNandy/CP/tree/master/0564-find-the-closest-palindrome) |
@@ -351,6 +355,7 @@
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/SarbajitNandy/CP/tree/master/0380-insert-delete-getrandom-o1) |
 | [0903-implement-rand10-using-rand7](https://github.com/SarbajitNandy/CP/tree/master/0903-implement-rand10-using-rand7) |
 ## Probability and Statistics
 |  |
