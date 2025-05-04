@@ -56,6 +56,7 @@
 | [1762-furthest-building-you-can-reach](https://github.com/SarbajitNandy/CP/tree/master/1762-furthest-building-you-can-reach) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SarbajitNandy/CP/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1985-maximum-subarray-min-product](https://github.com/SarbajitNandy/CP/tree/master/1985-maximum-subarray-min-product) |
+| [2169-simple-bank-system](https://github.com/SarbajitNandy/CP/tree/master/2169-simple-bank-system) |
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/SarbajitNandy/CP/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2889-number-of-black-blocks](https://github.com/SarbajitNandy/CP/tree/master/2889-number-of-black-blocks) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SarbajitNandy/CP/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -288,6 +289,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SarbajitNandy/CP/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SarbajitNandy/CP/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SarbajitNandy/CP/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2169-simple-bank-system](https://github.com/SarbajitNandy/CP/tree/master/2169-simple-bank-system) |
 | [2889-number-of-black-blocks](https://github.com/SarbajitNandy/CP/tree/master/2889-number-of-black-blocks) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SarbajitNandy/CP/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SarbajitNandy/CP/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -308,6 +310,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/SarbajitNandy/CP/tree/master/0304-range-sum-query-2d-immutable) |
 | [0362-design-hit-counter](https://github.com/SarbajitNandy/CP/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SarbajitNandy/CP/tree/master/0380-insert-delete-getrandom-o1) |
+| [2169-simple-bank-system](https://github.com/SarbajitNandy/CP/tree/master/2169-simple-bank-system) |
 ## Math
 |  |
 | ------- |
@@ -439,4 +442,8 @@
 |  |
 | ------- |
 | [0277-find-the-celebrity](https://github.com/SarbajitNandy/CP/tree/master/0277-find-the-celebrity) |
+## Simulation
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/SarbajitNandy/CP/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
