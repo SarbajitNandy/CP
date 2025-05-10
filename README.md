@@ -150,6 +150,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SarbajitNandy/CP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SarbajitNandy/CP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/SarbajitNandy/CP/tree/master/0337-house-robber-iii) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/SarbajitNandy/CP/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -164,6 +165,7 @@
 | [0801-is-graph-bipartite](https://github.com/SarbajitNandy/CP/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/SarbajitNandy/CP/tree/master/0854-making-a-large-island) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/SarbajitNandy/CP/tree/master/1120-flower-planting-with-no-adjacent) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/SarbajitNandy/CP/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SarbajitNandy/CP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SarbajitNandy/CP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/SarbajitNandy/CP/tree/master/0337-house-robber-iii) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/SarbajitNandy/CP/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## String
 |  |
 | ------- |
@@ -271,6 +274,7 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SarbajitNandy/CP/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/SarbajitNandy/CP/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Hash Table
 |  |
 | ------- |
@@ -339,6 +343,7 @@
 | [0658-find-k-closest-elements](https://github.com/SarbajitNandy/CP/tree/master/0658-find-k-closest-elements) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/SarbajitNandy/CP/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SarbajitNandy/CP/tree/master/0780-max-chunks-to-make-sorted) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/SarbajitNandy/CP/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1675-magnetic-force-between-two-balls](https://github.com/SarbajitNandy/CP/tree/master/1675-magnetic-force-between-two-balls) |
 ## Greedy
 |  |
