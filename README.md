@@ -48,6 +48,7 @@
 | [0854-making-a-large-island](https://github.com/SarbajitNandy/CP/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/SarbajitNandy/CP/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SarbajitNandy/CP/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/SarbajitNandy/CP/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1284-four-divisors](https://github.com/SarbajitNandy/CP/tree/master/1284-four-divisors) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SarbajitNandy/CP/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SarbajitNandy/CP/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -108,6 +109,7 @@
 | [0739-daily-temperatures](https://github.com/SarbajitNandy/CP/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/SarbajitNandy/CP/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SarbajitNandy/CP/tree/master/0780-max-chunks-to-make-sorted) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/SarbajitNandy/CP/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1985-maximum-subarray-min-product](https://github.com/SarbajitNandy/CP/tree/master/1985-maximum-subarray-min-product) |
 ## Monotonic Stack
 |  |
@@ -119,6 +121,7 @@
 | [0739-daily-temperatures](https://github.com/SarbajitNandy/CP/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/SarbajitNandy/CP/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SarbajitNandy/CP/tree/master/0780-max-chunks-to-make-sorted) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/SarbajitNandy/CP/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1985-maximum-subarray-min-product](https://github.com/SarbajitNandy/CP/tree/master/1985-maximum-subarray-min-product) |
 ## Prefix Sum
 |  |
@@ -141,6 +144,7 @@
 | [0486-predict-the-winner](https://github.com/SarbajitNandy/CP/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SarbajitNandy/CP/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/SarbajitNandy/CP/tree/master/0542-01-matrix) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/SarbajitNandy/CP/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1559-cherry-pickup-ii](https://github.com/SarbajitNandy/CP/tree/master/1559-cherry-pickup-ii) |
 | [2577-count-palindromic-subsequences](https://github.com/SarbajitNandy/CP/tree/master/2577-count-palindromic-subsequences) |
 ## Tree
@@ -354,6 +358,7 @@
 | ------- |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/SarbajitNandy/CP/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SarbajitNandy/CP/tree/master/0780-max-chunks-to-make-sorted) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/SarbajitNandy/CP/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1762-furthest-building-you-can-reach](https://github.com/SarbajitNandy/CP/tree/master/1762-furthest-building-you-can-reach) |
 ## Geometry
 |  |
